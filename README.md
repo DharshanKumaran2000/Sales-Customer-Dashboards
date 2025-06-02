@@ -26,9 +26,9 @@ Subcategory Comparison: Analyzed product subcategory performance by sales and pr
 
 Weekly Trends: Visualized weekly sales and profits, highlighting above/below-average performance
 
-****Customer Dashboard**
+**Customer Dashboard**
 
-Purpose:**
+**Purpose:**
 
 Offered insights into customer behavior and engagement to support marketing and sales strategies.
 
