@@ -1,92 +1,38 @@
-🎯 Objective:
-Created dynamic dashboards to empower sales managers and executives with insights into sales performance and customer behavior, enabling data-driven decision-making.
+**Objective:**
+Built interactive dashboards to help sales managers and executives analyze performance and customer behavior for informed, data-driven decisions.
 
-🧩 Project Context:
-This project was developed to fulfill stakeholder reporting needs using Tableau. The goal was to build a compelling user story focusing on sales trends and customer analysis through visual dashboards.
+**Context:**
+Developed as part of a Tableau project focused on delivering a user story for stakeholders through dynamic sales and customer insights.
 
-🛠️ Tools & Techniques:
+**Tools & Techniques:**
 Tools: Tableau Desktop
+Methods: Calculated Fields, KPI Tracking, Trend & Comparative Analysis, Interactive Visualizations, Dashboard Design
 
-Techniques: Calculated Fields, KPI Tracking, Trend & Comparative Analysis, Interactive Visualizations, Dashboard Design
+**Sales Dashboard
+Purpose:**
+Provided a high-level view of key sales metrics and trends, enabling year-over-year comparisons.
+**Highlights:**
+KPI Summary: Compared current vs. previous year sales, profit, and quantity
+Monthly Trends: Tracked sales metrics monthly, identifying peak and low months
+Subcategory Comparison: Analyzed product subcategory performance by sales and profitability
+Weekly Trends: Visualized weekly sales and profits, highlighting above/below-average performance
 
-📊 Sales Dashboard
-Purpose:
-To present a high-level view of sales metrics and trends, helping stakeholders compare year-over-year performance and identify key sales patterns.
+****Customer Dashboard**
+Purpose:**
+Offered insights into customer behavior and engagement to support marketing and sales strategies.
+**Highlights:**
+KPI Overview: Compared customer count, sales per customer, and orders year-over-year
+Trends: Displayed monthly customer activity and key trend shifts
+Order Distribution: Visualized order frequency across the customer base
+Top Customers: Ranked top 10 customers by profit with additional engagement details
 
-Key Features:
+**Design & Interactivity:**
+Year-based filters and drill-downs
+Easy navigation between dashboards
+Interactive visuals with visual-level filtering
+Filters by product category/subcategory and location
 
-KPI Summary:
-
-Showcased total sales, profit, and quantity for current vs. previous year.
-
-Highlighted performance deltas year-over-year.
-
-Monthly Sales Trends:
-
-Tracked monthly changes in sales, profits, and quantities.
-
-Identified peak and low-performing months.
-
-Subcategory Performance:
-
-Compared product subcategories on both sales and profitability.
-
-Visualized trends and performance shifts between years.
-
-Weekly Sales & Profit Trends:
-
-Analyzed weekly patterns.
-
-Flagged weeks above and below average performance for strategic insights.
-
-👥 Customer Dashboard
-Purpose:
-To analyze customer behaviors, trends, and engagement, providing marketing and business teams with actionable insights.
-
-Key Features:
-
-Customer KPI Overview:
-
-Displayed total customers, sales per customer, and number of orders.
-
-Included year-over-year comparisons for engagement metrics.
-
-Customer Trends:
-
-Tracked monthly changes in customer activity.
-
-Identified highest and lowest performing months.
-
-Order Distribution:
-
-Visualized how frequently customers placed orders.
-
-Offered insights into loyalty and repeat behavior.
-
-Top 10 Customers by Profit:
-
-Ranked customers by profit contribution.
-
-Included details like number of orders, recent activity, and sales metrics.
-
-🎛️ Dashboard Design & Interactivity:
-Users could filter and explore historical data by selecting years.
-
-Seamless navigation between sales and customer dashboards.
-
-Interactive charts enabled direct data filtering via visuals.
-
-Filters available for product details (category, subcategory) and location (region, state, city).
-
-📈 Results & Insights:
-Delivered clear, actionable insights on sales and customer patterns.
-
-Identified seasonality and trends to assist in resource and inventory planning.
-
-Uncovered high-performing products and key customer segments for targeted strategies.
-
-💼 Business Impact:
-Equipped stakeholders with the ability to make informed, strategic decisions.
-
-Improved understanding of market behavior, enhancing customer satisfaction and operational planning.
-
+**Impact:**
+Uncovered sales patterns and customer trends
+Identified high-performing products and customer segments
+Enabled strategic, data-informed decision-making across teams
