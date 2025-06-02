@@ -6,6 +6,7 @@ Developed as part of a Tableau project focused on delivering a user story for st
 
 **Tools & Techniques:**
 Tools: Tableau Desktop
+
 Methods: Calculated Fields, KPI Tracking, Trend & Comparative Analysis, Interactive Visualizations, Dashboard Design
 
 **Sales Dashboard
